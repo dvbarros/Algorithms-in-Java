@@ -1,0 +1,7 @@
+a) Enquanto o contador for maior ou igual a 1, o i será incrementado, ou seja, não existe uma condição de parada
+para esse loop, sendo infinito. Por não saber o objetivo do código, é impossível achar uma solução.
+b) Falta break após as condições para que quando se chegue a qualquer uma das condições, o programa pare, ignorando
+os outros casos e encerrando o programa.
+c) Ao invés de incrementar duas casa para frente, é necessário incrementar duas para trás, colocando dessa forma i-=2.
+d) Além de while com W minúsculo, é necessário que o looping inclua o 100, pois o programa quer o pares de 2 a 100, logo
+é preciso fazer while(counter <= 100).

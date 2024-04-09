@@ -1,0 +1,1 @@
+O programa irá imprimir uma coluna com 5 @, pula uma linha e este processo dura 10 vezes.
