@@ -1,0 +1,17 @@
+O seguinte código define a várivel "x" e uma variável "total", x é o parâmetro para que o laço while funcione, 
+enquanto "x" for menor ou igual a 10, o laço while irá funcionar. Dentro do bloco while, foi criado um variável
+"y" que receberá o produto de x com x e este resultado será impresso. Logo após o valor de Y estar na tela,
+a variável "total" recebe total + y, ou seja, ela está recebendo o valor anterior de total mais o valor atual de Y
+após isso X é incrementado, ou seja, recebe 1 unidade de valor. No final, a variável total será impressa representando
+a soma de todos os valores de Y. Portanto, se X começa em 1 e total é inicializado com 0, o resultado será:
+1
+4
+9
+16
+25
+36
+49
+64
+81
+100
+Total is 385
